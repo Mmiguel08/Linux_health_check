@@ -98,7 +98,7 @@ pip install psutil
 Run the monitoring agent:
 
 ```bash
-python3 server_agent/agent.py
+python3 server_agent.py
 ```
 
 ## Test Environment
